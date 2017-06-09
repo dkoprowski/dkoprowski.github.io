@@ -57,7 +57,7 @@ yandex_site_verification :
 twitter:
   username               : "Koprowski_it"
 facebook:
-  username               :
+  username               : "KoprowskiBlog"
   app_id                 :
   publisher              : "KoprowskiBlog"
 og_image                 : /assets/images/avatar.jpg # Open Graph/Twitter default site image
@@ -79,22 +79,22 @@ analytics:
 author:
   name             : "Daniel Koprowski"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Programmer."
-  location         : "Poland"
+  bio              : "Developer of games and interactive apps using Unity3D. Co-founder of Kuznia.co scientific club, beginner blogger and history enthusiast."
+  location         : 
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "KoprowskiBlog"
   foursquare       :
   github           : "dkoprowski"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "daniel-koprowski-4748048a"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
