@@ -6,7 +6,7 @@ header:
   overlay_filter: 0.5
 
 title: Gaming mouses are the best for professional work!
-date:   2016-08-21 18:16:01 -0600
+date: "2016-08-21 18:16:01"
 categories: productivity tools hardware
 ---
 Mouse is very important device if you care about productivity. This article will show you advantages of functions that are not so obvious. Maybe you don't pay attention to your mouse. Well... Then just look at the features below and decide if your *straight* mouse is enough for you. If you care about making life easier take a look, maybe I wrote something you didn't know.

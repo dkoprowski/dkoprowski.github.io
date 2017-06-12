@@ -5,10 +5,9 @@ header:
   overlay_filter: 0.5
 
 title: I have moved to GitHub Pages
-date:   2017-06-12 18:00:00 -0600
+date: "2017-06-12 16:00:00"
 categories: lifestyle
 ---
-
 GitHub Pages is a free hosting service. Each project on GitHub can have its website. What's even better - you can attach a custom domain or use Github's https subdomain.
 
 ## Motivations

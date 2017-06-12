@@ -5,7 +5,7 @@ header:
   overlay_filter: 0.5
 
 title: Organize your Unity project directories!
-date:   2016-03-24 23:00:00 -0600
+date: "2016-03-24 23:00:00"
 categories: unity
 ---
 

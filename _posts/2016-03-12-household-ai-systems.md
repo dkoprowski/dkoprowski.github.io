@@ -1,12 +1,12 @@
 ---
-excerpt: ""
+excerpt: "Or will liberate us..."
 header:
   overlay_image: http://orig08.deviantart.net/ab58/f/2014/008/e/6/skynet_t800_factory_by_dadmad-d70u4x2.png
   overlay_color: "#333"
   overlay_filter: 0.5
 
 title: Will household AI systems enslave us?
-date:   2016-03-12 19:00:00 -0600
+date: "2016-03-12 19:00:00"
 categories: lifestyle
 ---
 

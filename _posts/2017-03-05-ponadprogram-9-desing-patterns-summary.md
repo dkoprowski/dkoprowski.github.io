@@ -6,7 +6,7 @@ header:
   overlay_filter: 0.5
 
 title:  "PonadProgram #9 - Design patterns"
-date:   2017-03-05 16:16:01 -0600
+date: "2017-03-05 16:16:01"
 categories: events
 ---
 Some of you may know that I'm the co-founder of Kuźnia (student organization) and we are organizing monthly lectures called #PonadProgram. These are targeted to anyone who wants to learn something. Each lecture is presented by experienced people from local IT society. 
