@@ -8,11 +8,11 @@ title: I have moved to GitHub Pages
 date: "2017-06-12 16:00:00"
 categories: lifestyle
 ---
-GitHub Pages is a free hosting service. Each project on GitHub can have its website. What's even better - you can attach a custom domain or use Github's https subdomain.
+GitHub Pages is a free hosting service. Each project on GitHub can have its website. What's even better — you can attach a custom domain or use Github's https subdomain.
 
 ## Motivations
 
-Previously this blog was hosted on my own VPS Ubuntu server. It was great at the beginning. Configuration and all that stuff weren't so difficult as I firstly though. Possibilities of that approach were limitless and sometimes I was uploading my games or do other experiments on that server. All fun. Then I decided that each service I'm working on should have a separated server. So I did. Finally, it was a really good decision but now I have multiple servers and multiple responsibilities. Few month ago my private cloud server broke - something with Linux kernel or server's HDD. Rather service provider's error than mine because the server was working great for more than a year. The thing is, I had troubles because all my files needed to be moved elsewhere. I began to consider - what if my blog's server will break? Do I have backups? Yep. Do I want to loose half of day (yeah half...) just to restore things as it should be? Nope! 
+Previously this blog was hosted on my own VPS Ubuntu server. It was great at the beginning. Configuration and all that stuff weren't so difficult as I firstly though. Possibilities of that approach were limitless and sometimes I was uploading my games or do other experiments on that server. All fun. Then I decided that each service I'm working on should have a separated server. So I did. Finally, it was a really good decision but now I have multiple servers and multiple responsibilities. Few month ago my private cloud server broke — something with Linux kernel or server's HDD. Rather, service provider's error than mine because the server was working great for more than a year. The thing is, I had troubles because all my files needed to be moved elsewhere. I began to consider — what if my blog's server will break? Do I have backups? Yep. Do I want to lose half of day (yeah half...) just to restore things as it should be? Nope! 
 
 
 Here comes GitHub Pages. Simple solution. You have static Markdown files which are converted to blog posts. **No database, no server, no safety threats, no costs!** All you need is ~~love~~ git repository!
@@ -22,7 +22,7 @@ Posts can be written in Markdown or HTML. All post files must begin with _YAML F
 ```
 ---
 title: I've moved to GitHub Pages
-date:   2017-06-12 16:00:00
+date: 2017-06-12 16:00:00
 categories: lifestyle
 ---
 ```
@@ -35,7 +35,7 @@ Another great thing is a migration of your current blog to GitHub Pages. You can
 
 These are static files. No server-side code can be running here. So if you are using your current blog server to run some scripts or other services it cannot be done here.
 
-No GitLFS support - as I know not many people using LFS (large file storage) but I do. Repository for the video blog or the photo blog will increase drastically with every change of binary files. You can host binaries elsewhere and embed them to your Pages blog but host this here is a poor idea. 
+No GitLFS support — as I know not many people using LFS (large file storage) but I do. Repository for the video blog or the photo blog will increase drastically with every change of binary files. You can host binaries elsewhere and embed them to your Pages blog but host this here is a poor idea.
 
 For custom domains, there is no out-of-the-box SSL solution.
 
@@ -56,7 +56,7 @@ I will not repeat online resources. I encourage you to make similar way as mine 
 
 To sum it up. This is my beginning with GitHub Pages. If I will find some pros or cons I will definitely update this post and notify you by Twitter. For now, it looks like a perfect solution for blog or product page.
 
-## Links
+## Resources
 
 * [GitHub Pages](https://pages.github.com/)
 * [Jekyll official page](https://jekyllrb.com)
