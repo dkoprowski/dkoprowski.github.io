@@ -4,8 +4,8 @@ header:
   overlay_color: "#333"
   overlay_filter: 0.5
 
-title: I've moved to GitHub Pages
-#date:   2017-06-12 16:00:00 -0600
+title: I have moved to GitHub Pages
+date:   2017-06-12 18:00:00 -0600
 categories: lifestyle
 ---
 
