@@ -5,7 +5,7 @@ header:
   overlay_color: "#333"
   overlay_filter: 0.5
 
-title: Household AI systems will enslave us?
+title: Will household AI systems enslave us?
 date:   2016-03-12 19:00:00 -0600
 categories: lifestyle
 ---
