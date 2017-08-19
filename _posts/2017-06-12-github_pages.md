@@ -35,7 +35,7 @@ Another great thing is a migration of your current blog to GitHub Pages. You can
 
 These are static files. No server-side code can be running here. So if you are using your current blog server to run some scripts or other services it cannot be done here.
 
-No GitLFS support — as I know not many people using LFS (large file storage) but I do. Repository for the video blog or the photo blog will increase drastically with every change of binary files. You can host binaries elsewhere and embed them to your Pages blog but host this here is a poor idea.
+No GitLFS support — as I know not many people is using LFS (large file storage) but I do. Repository for the video blog or the photo blog will increase drastically with every change of binary files. You can host binaries elsewhere and embed them to your Pages blog but host this here is a poor idea.
 
 For custom domains, there is no out-of-the-box SSL solution.
 
