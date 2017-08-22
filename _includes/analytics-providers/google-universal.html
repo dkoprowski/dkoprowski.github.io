@@ -7,3 +7,18 @@
   ga('create', '{{ site.analytics.google.tracking_id }}', 'auto');
   ga('send', 'pageview');
 </script>
+
+<script>
+  /**
+  * Funkcja śledząca kliknięcie linku wychodzącego w Analytics.
+  * Ta funkcja wykorzystuje prawidłowy URL jako argument i używa go
+  * jako etykiety zdarzenia. Wybranie metody transportu 'beacon' umożliwia wysłanie działania
+  * za pomocą 'navigator.sendBeacon' w obsługiwanej przeglądarce.
+  */
+  var trackOutboundLink = function(url) {
+     ga('send', 'event', 'outbound', 'click', url, {
+       'transport': 'beacon',
+       'hitCallback': function(){document.location = url;}
+     });
+  }
+  </script>
