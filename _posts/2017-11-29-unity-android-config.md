@@ -6,7 +6,7 @@ header:
   overlay_filter: 0.5
 
 title: "Configure Android development environment for Unity"
-date: "2017-11-28 19:00:00"
+date: "2017-11-29 19:00:00"
 categories: unity
 ---
 
@@ -26,20 +26,21 @@ On the next view choose your version (Windows?):
 Then click through Java installer.
 
 ### 2. Setup Java environment variables
-For Android / Unity purposes its only required to set up 'PATH' variable. To do this you can install useful program called [Patheditor](https://patheditor2.codeplex.com/). Otherwise, you can google how to setup 'PATH' environment variable.
+For Android / Unity purposes its only required to set up `PATH` variable. To do this you can install useful program called [Patheditor](https://patheditor2.codeplex.com/). Otherwise, you can google how to setup `PATH` environment variable.
 
 ![Patheditor](/assets/images/2017/android/patheditor.png)
 
 If you would like to setup other environment variables for Java here are [the examples](https://stackoverflow.com/questions/1672281/environment-variables-for-java-installation):
-'''
+
+```
 JAVA_HOME : C:\Program Files\Java\jdk1.8.0_112
 JDK_HOME : %JAVA_HOME%
 JRE_HOME : %JAVA_HOME%\jre
 CLASSPATH : %JAVA_HOME%\lib;%JAVA_HOME%\jre\lib
 PATH : other-entries;%JAVA_HOME%\bin
-'''
+```
 
-*Make sure that 'PATH' doesn't contain references to another Java installation directory.*
+*Make sure that `PATH` doesn't contain references to another Java installation directory.*
 
 ### 3. Download [Android SDK](https://developer.android.com/studio/index.html).
 
@@ -53,27 +54,28 @@ Unzip this to desired SDK location.
 
 Now we need to install Android components. We are not using Android Studio so we will need to run console.
 
-To install those things we will use console tool called 'sdkmanager.bat'. It is inside '\tools\bin\' directory of '[Your AndroidSDK location]' — in my example it was directly in custom folder on 'C:' drive.
+To install those things we will use console tool called 'sdkmanager.bat'. It is inside `\tools\bin\` directory of `[Your AndroidSDK location]` — in my example it was directly in custom folder on `C:` drive.
 
-If you would like to check newest packages versions simply run 'sdkmanager.bat --list' command.
-To run scripts in '*.bat' you need to enter command line. To do this get into '[AndroidSDK]\tools\bin\' and in directory bar write 'cmd' like on gif below:
+If you would like to check newest packages versions simply run `sdkmanager.bat --list` command.
+To run scripts in `*.bat` you need to enter command line. To do this get into `[AndroidSDK]\tools\bin\` and in directory bar write `cmd` like on gif below:
 
 ![cmd gif](/assets/images/2017/android/cmd.gif)
 
 _Don't rely on versions below — those was newest while I was writing this tutorial._
 
 Install required packages like this:
-'''
+```
 sdkmanager.bat platforms;android-27
 sdkmanager.bat platform-tools
 sdkmanager.bat build-tools;27.0.1
 sdkmanager.bat extras;google;usb_driver
-'''
+```
 ### 6. Setup locations in Unity
 
-Go to 'Edit/Preferences/External tools' and setup paths according to locations you have choosen:
+Go to `Edit/Preferences/External tools` and setup paths according to locations you have choosen:
+
 ![Unity settings](/assets/images/2017/android/unity.png)
 
 ### 6. That's it. Now you can proceed with steps from [Unity documentation](https://docs.unity3d.com/Manual/android-sdksetup.html). From third step or so.
 
-### ... some steps further. You are ready to become Unity Android Developer! Create some android games or plugins? Good luck!
+## ... a few steps further. You are ready to become Unity Android Developer! Create some android games or plugins? Good luck!
