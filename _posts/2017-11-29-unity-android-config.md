@@ -1,5 +1,5 @@
 ---
-excerpt: "How to set up Unity for Android development? How to install JDK, set Android SDK PATH and other Android stuff on Windows? Here you have step by step receipt to start Android development on Unity."
+excerpt: "How to set up Unity for Android development? How to download and install JDK, set Android SDK PATH and other Android stuff on Windows? Here you have step by step receipt to download & start Android development environment for Unity."
 header:
   overlay_image: /assets/images/2017/android/cover.png
   overlay_color: "#333"
