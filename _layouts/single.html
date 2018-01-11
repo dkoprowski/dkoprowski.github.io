@@ -34,6 +34,14 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+          <i>
+            <strong>[IMPORTANT NOTE]</strong>
+            <p>
+              This post may be updated.
+              <a href="https://twitter.com/{{ site.twitter.username }}">
+                <i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i>Follow me on Twitter</a> to always be informed!
+            </p>
+          </i>
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>

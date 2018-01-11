@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en"
 title                    : "Koprowski.it"
-title_separator          : "-"
+title_separator          : "–"
 name                     : "Koprowski Blog"
 description              : "Vis scientiam sequitur"
 url                      : "http://koprowski.it" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
