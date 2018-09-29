@@ -5,7 +5,7 @@ header:
   overlay_color: "#333"
   overlay_filter: 0.5
 
-title: "Configure Android development environment for Unity"
+title: "Configure Android SDK for Unity"
 date: "2017-11-29 19:00:00"
 categories: unity
 ---
