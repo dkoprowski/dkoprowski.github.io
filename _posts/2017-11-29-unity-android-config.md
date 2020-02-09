@@ -76,6 +76,28 @@ Go to `Edit/Preferences/External tools` and setup paths according to locations y
 
 ![Unity settings](/assets/images/2017/android/unity.png)
 
-### 6. That's it. Now you can proceed with steps from [Unity documentation](https://docs.unity3d.com/Manual/android-sdksetup.html). From third step or so.
+That's it. Now you can proceed with steps from [Unity documentation](https://docs.unity3d.com/Manual/android-sdksetup.html). From third step or so.
 
-## ... a few steps further. You are ready to become Unity Android Developer! Create some android games or plugins? Good luck!
+... a few steps further. You are ready to become Unity Android Developer! Take a look below for even better start.
+
+
+## Done with tutorial? I've prepared some book recomendations for you!
+
+#### [Learning C# by Developing Games with Unity 2019: Code in C# and build 3D games with Unity, 4th Edition](https://www.amazon.com/gp/product/1789532051/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1789532051&linkCode=as2&tag=koprowski05-20&linkId=1c6d3fefea54bbcee3b5b9e0e89fb04b)
+> The book caters to developers and programmers who want to get started with C# programming in a fun and engaging manner. Anyone who wants to build games and script in C# language and Unity can take this book up. No prior programming or Unity experience is required.
+
+[![Learning C# by Developing Games with Unity 2019](https://images-na.ssl-images-amazon.com/images/I/51RqggaQarL.jpg)](https://www.amazon.com/gp/product/1789532051/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1789532051&linkCode=as2&tag=koprowski05-20&linkId=1c6d3fefea54bbcee3b5b9e0e89fb04b)
+
+
+#### [Reality Is Broken: Why Games Make Us Better and How They Can Change the World](https://www.amazon.com/gp/product/0143120611/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143120611&linkCode=as2&tag=koprowski05-20&linkId=13b9aaecdacfaaf16ebe293e8f3e4334)
+
+**Must read for game developer! - this book will tell you why this job is so important**
+> The book did a superb job of outlining concrete examples of why we like games in the first place, and how we can transform that interest into something that will make our lives and the lives of others better. - Michael Andersen on [ARGNet](http://www.argn.com/2011/01/a_commentary_on_jane_mcgonigals_new_book_reality_is_broken/)
+
+[![Reality Is Broken](https://images-na.ssl-images-amazon.com/images/I/518%2Bt9RNR5L._SX324_BO1,204,203,200_.jpg)(https://www.amazon.com/gp/product/0143120611/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143120611&linkCode=as2&tag=koprowski05-20&linkId=13b9aaecdacfaaf16ebe293e8f3e4334)
+
+
+#### [Unity in Action: Multiplatform Game Development in C# with Unity 5](https://www.amazon.com/gp/product/161729232X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=161729232X&linkCode=as2&tag=koprowski05-20&linkId=4dd5d011e0a3e8ff96ff46e5236ad31a)
+> This is a book about programming games in Unity. Think of it as an intro to Unity for experienced programmers. The goal of this book is straightforward: to take people who have some programming experience but no experience with Unity and teach them how to develop a game using Unity. 
+
+[![Unity in Action: Multiplatform Game Development in C# with Unity 5](https://images-na.ssl-images-amazon.com/images/I/510Qt3luBQL._SX396_BO1,204,203,200_.jpg)](https://www.amazon.com/gp/product/161729232X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=161729232X&linkCode=as2&tag=koprowski05-20&linkId=4dd5d011e0a3e8ff96ff46e5236ad31a)
